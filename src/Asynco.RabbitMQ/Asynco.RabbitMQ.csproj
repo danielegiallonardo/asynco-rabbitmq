@@ -11,7 +11,7 @@
     <RootNamespace>Asynco.RabbitMQ</RootNamespace>
     <PackageId>Asynco.RabbitMQ</PackageId>
     <PackageTags>asynco;remoting;request;reply;microservices;servicebus;rpc;rabbitmq</PackageTags>
-    <PackageProjectUrl>https://github.com/danielegiallonardo/asynco</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/danielegiallonardo/asynco-rabbitmq</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageVersion>1.0.4</PackageVersion>
     <Version>1.0.4</Version>
